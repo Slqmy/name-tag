@@ -1,5 +1,5 @@
 {
-    "name": "Name Tag",
+    "name": "name-tag",
     "description": "",
     "dependencies": {
         "core": "*",
